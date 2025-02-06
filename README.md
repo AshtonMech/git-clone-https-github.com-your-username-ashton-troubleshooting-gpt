@@ -1,2 +1,2 @@
-# git-clone-https-github.com-AshtonMech-ashton-troubleshooting-gpt
-git clone https://github.com/AshtonMech/ashton-troubleshooting-gpt.git
+# git-clone-https-github.com-Kenny-ashton-troubleshooting-gpt
+git clone https://github.com/Kenny/ashton-troubleshooting-gpt.git
